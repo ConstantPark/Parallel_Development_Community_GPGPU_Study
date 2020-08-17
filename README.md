@@ -1,5 +1,8 @@
 ## General Purpose Graphic Processing Unit (GPGPU) Study
-This is a repository of the study "GPGPU". The goal of this study is to understand `GPGPU` and GPGPU APIs including `cuBLAS`, `cuRAND`, `cuDNN`. Our materials are open to this github and youtube. This study is supported by parallel development community (PDC, https://cafe.naver.com/speedbetter)
+This is a repository of the study "GPGPU". The goal of this study is to understand `GPGPU` and GPGPU APIs including `cuBLAS`, `cuRAND`, `cuDNN`. Our materials are open to this github and youtube. 
+
+### Acknowledgment
+This study is supported by parallel development community (PDC, https://cafe.naver.com/speedbetter)
 
 #### CPU/GPU and NPU
 - Desinging optimized BLAS for CPU or GPU
