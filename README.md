@@ -12,7 +12,7 @@ This study is supported by parallel development community (PDC, https://cafe.nav
 
    
 ## Presentation with Video
-### Week1: Introduction: GPU Achitecture (August 16, 2020)
+### Week1: Introduction: GPU History and GPU Achitecture (August 16, 2020)
 
 	Presenter: 정현수 (email or blog address)
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Optimal%20DNN%20Primitive%20Selection%20with%20Partitioned%20Boolean%20Quadratic%20Programming.pdf   
