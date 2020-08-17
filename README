@@ -1,4 +1,4 @@
-## General Purpose Graphic Processing Unit (GPGPU) Study
+## General Purpose Graphic Processing Unit (GPGPU) Study ##
 This is a repository of the study "GPGPU and DNN". The goal of this study is to understand GPGPU and GPGPU APIs (such as cuBLAS, cuTLAS, cuRAND, etc). Our materials are open to this github and youtube. This study is supported by naver caffe, "Parallel Development Community".
 #### CPU/GPU, NPU, and distributed computing
 - Fast acceleration of inference/training on general processor (CPU/GPU)
