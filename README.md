@@ -15,7 +15,7 @@ This study is supported by parallel development community (PDC, https://cafe.nav
 ### Week1: Introduction: GPU History and GPU Achitecture (August 16, 2020)
 
 	Presenter: 정현수 (email or blog address)
-	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Optimal%20DNN%20Primitive%20Selection%20with%20Partitioned%20Boolean%20Quadratic%20Programming.pdf   
+	PPT: https://github.com/ConstantPark/Parallel_Development_Community_GPGPU_Study/blob/master/Study_%231_GPU%20History%20and%20architecture.pdf
 	Video: https://youtu.be/ZLGLogU5mt0   
 	
 ## Contributors
