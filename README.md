@@ -14,9 +14,9 @@ This study is supported by parallel development community (PDC, https://cafe.nav
 ## Presentation with Video
 ### Week1: Introduction: GPU History and GPU Achitecture (August 16, 2020)
 
-	Presenter: 정현수 (email or blog address)
+	Presenter: 정현수 (89douner@gmail.com)
 	PPT: https://github.com/ConstantPark/Parallel_Development_Community_GPGPU_Study/blob/master/Study_%231_GPU%20History%20and%20architecture.pdf
-	Video: https://youtu.be/ZLGLogU5mt0   
+	Video: https://youtu.be/BpWZ5PXSHVU  
 	
 ## Contributors
 **Main Contributor**: Jae-Ik Shin (jishin86@gmail.com), Constant Park (sonicstage12@naver.com)  
