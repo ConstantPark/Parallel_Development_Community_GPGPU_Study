@@ -27,7 +27,7 @@ This study is supported by parallel development community (PDC, https://cafe.nav
 ### Week3: CUDA Memory (November 04, 2020)
 
 	Presenter: 원동식 
-	PPT: https://github.com/ConstantPark/Parallel_Development_Community_GPGPU_Study/blob/master/Study_%232_CUDA_Introduction.pdf
+	PPT: https://github.com/ConstantPark/Parallel_Development_Community_GPGPU_Study/blob/master/Study_%233_CUDA_Memory.pdf
 	Video: 
 	
 ## Contributors
