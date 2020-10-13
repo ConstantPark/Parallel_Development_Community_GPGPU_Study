@@ -28,7 +28,7 @@ This study is supported by parallel development community (PDC, https://cafe.nav
 
 	Presenter: 원동식 
 	PPT: https://github.com/ConstantPark/Parallel_Development_Community_GPGPU_Study/blob/master/Study_%233_CUDA_Memory.pdf
-	Video: 
+	Video: https://youtu.be/hulzwjY-dMg
 	
 ## Contributors
 **Main Contributor**: Jae-Ik Shin (jishin86@gmail.com), Constant Park (sonicstage12@naver.com)  
