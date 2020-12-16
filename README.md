@@ -45,7 +45,7 @@ This study is supported by parallel development community (PDC, https://cafe.nav
 ### Week6: Warp Level CUDA and Atomics (December 13, 2020)
 
 	Presenter: 박상수 (sonicstage12@naver.com)
-	PPT: 
+	PPT: https://github.com/ConstantPark/Parallel_Development_Community_GPGPU_Study/blob/master/Study_%236_Warp_Level.pdf
 	Video: https://youtu.be/EBI8GNHtEn8
 	
 ## Contributors
