@@ -30,6 +30,24 @@ This study is supported by parallel development community (PDC, https://cafe.nav
 	PPT: https://github.com/ConstantPark/Parallel_Development_Community_GPGPU_Study/blob/master/Study_%233_CUDA_Memory.pdf
 	Video: https://youtu.be/hulzwjY-dMg
 	
+### Week4: CUDA Memory (November 08, 2020)
+
+	Presenter: 신재익 (jishin86@gmail.com)
+	PPT: 
+	Video: https://youtu.be/upO6apPQHdA	
+	
+### Week5: CUDA Performance (November 08, 2020)
+
+	Presenter: 조원영 (bourbaki10@gmail.com)
+	PPT: 
+	Video: https://youtu.be/T-1TQSaib4A
+	
+### Week6: Warp Level CUDA and Atomics (December 13, 2020)
+
+	Presenter: 박상수 (sonicstage12@naver.com)
+	PPT: 
+	Video: https://youtu.be/EBI8GNHtEn8
+	
 ## Contributors
 **Main Contributor**: Jae-Ik Shin (jishin86@gmail.com), Constant Park (sonicstage12@naver.com)  
 
